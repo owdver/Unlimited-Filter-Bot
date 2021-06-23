@@ -1,14 +1,15 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hy {},</b>
 
-My Name is Thor, Iam a Advanced Filter Bot.
-Now Iam Working For <b><a href='t.me/ob_Links'>OB TEAM</a></b>
+<b>I am a Advanced Filter Bot. I will Give You Movies & Subtitle & Series In Lightning Speed. I have Many Abilities
+ The Most Powerful Ability is Odin Force That Give Me Many Advantages 😉.
+Now Iam Working For</b> <b><a href='t.me/ob_Links'>OB TEAM</a></b>
 """
 
 
     HELP_MSG = """
-Iam Sorry This Is Not For You 😓.
+<b><u><i>Iam Sorry This Is Not For You 😓.</i></u></b>
 """
 
 
